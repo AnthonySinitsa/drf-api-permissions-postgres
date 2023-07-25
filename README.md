@@ -10,6 +10,6 @@ clouds again lol
 
 - ###### pmp runserver
 
-<http://0.0.0.0:8000/api/v1/clouds>
+<http://0.0.0.0:8000/api/clouds_app>
 
 - docker compose up
